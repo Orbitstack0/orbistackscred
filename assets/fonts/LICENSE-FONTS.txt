@@ -1,0 +1,7 @@
+Fontes hospedadas localmente:
+- Manrope (600, 700, 800) - Copyright The Manrope Project Authors (https://github.com/sharanda/manrope)
+- DM Sans (400, 500, 700) - Copyright The DM Sans Project Authors (https://github.com/googlefonts/dm-fonts)
+Ambas licenciadas sob a SIL Open Font License 1.1 (https://openfontlicense.org), que permite uso, redistribuicao e
+incorporacao em sites. Arquivos obtidos do Google Fonts (subconjunto latino, TTF) em 2026-10-20, sem modificacao.
+Texto integral da licenca: https://openfontlicense.org/open-font-license-official-text/
+Os arquivos .woff2 são conversões de formato (sem alteração dos glifos) dos .ttf correspondentes, feitas em 2026-10-20; os .ttf permanecem como alternativa de compatibilidade.
